@@ -4,7 +4,7 @@ import random
 
 METADATA = json.dumps({
 	"description": "SpeedrunAI utilizes state of the art machine learning algorithms to generate modern art.", #FIXME Add image and video link to description
-  "external_url": "TBA", #FIXME Put something here
+  "external_url": "https://speedrunai.nft",
   "image": "ipfs://IPFS_LINK/SUBJECT.png",
 	"animation_url": "ipfs://IPFS_LINK/SUBJECT.mp4",
   "name": "SUBJECT",
@@ -45,5 +45,5 @@ for i, fname in enumerate(fnames):
 				.replace('STYLE', data[1])
 				.replace("999", data[2])
 				.replace('SIZE', data[3])
-				.replace('IPFS_LINK', 'QmQGdpRrB8D7MsjazQo2T5jvky7BnZuLpao561M3EynJtS') #FIXME Correct link
+				.replace('IPFS_LINK', 'IPFS_LINK') #FIXME Correct link
 			)
