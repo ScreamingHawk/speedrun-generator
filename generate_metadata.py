@@ -3,7 +3,7 @@ import os
 import random
 
 METADATA = json.dumps({
-	"description": "SpeedrunAI utilizes state of the art machine learning algorithms to generate modern art.\n\n[Image (.png)](ipfs://IPFS_LINK/SUBJECT.png)\n\n[Video (.mp4)](ipfs://IPFS_LINK/SUBJECT.mp4)",
+	"description": "SpeedrunAI utilizes state of the art machine learning algorithms to generate modern art.\n\nSeries 1 combines a hand crafted selection of meaningful prompts provided by the community with various art styles.\nThe iterations are intentionally short to retain the dynamic appeal of AI art and open to work to viewer interpretation.\n\n[Image (.png)](ipfs://IPFS_LINK/SUBJECT.png)\n\n[Video (.mp4)](ipfs://IPFS_LINK/SUBJECT.mp4)",
 	"external_url": "https://speedrunai.nft",
 	"image": "ipfs://IPFS_LINK/SUBJECT.png",
 	"animation_url": "ipfs://IPFS_LINK/SUBJECT.mp4",
