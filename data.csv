@@ -1,65 +1,32 @@
-cat,watercolor,100,large
-fruit,watercolor,100,large
-waves,steampunk,300,medium
-donut,smooth,50,medium
-clown,pencil sketch,50,medium
-robot,smooth,300,medium
-water,painting,200,medium
-rocket,painting,200,medium
-baby,painting,200,medium
-shotgun,pencil sketch,100,large
-letter,painting,300,large
+cat,watercolor,300,large
+fruit,painting,200,large
+donut,painting,300,large
+robot,steampunk,50,large
+water,painting,50,large
+baby,watercolor,200,large
+letter,smooth,50,large
 constellation,painting,50,medium
-pasta,painting,50,large
-game,steampunk,200,large
-observatory,watercolor,100,medium
-glitch,pencil sketch,100,medium
-emptiness,watercolor,300,medium
-clock,painting,50,large
-town,smooth,100,medium
-raven,painting,200,medium
-feather,watercolor,300,medium
-tuft,pencil sketch,100,medium
-talons,painting,200,large
-espionage,watercolor,200,medium
-selection,painting,50,large
-atlas,smooth,500,medium
-zodiac,pencil sketch,100,medium
-killer,painting,50,medium
-athlete,pencil sketch,300,large
-skeleton,smooth,200,large
-bat,steampunk,100,medium
-fence,pencil sketch,50,medium
-pumpkin,pencil sketch,500,medium
-crown,steampunk,50,medium
-gym,pencil sketch,200,medium
-dumbbell,smooth,300,large
-bone,painting,100,medium
-abrasion,pencil sketch,50,medium
-pitch,smooth,50,large
-orb,painting,200,large
-catapult,watercolor,50,medium
-trebuchet,smooth,200,medium
-wing,painting,100,medium
-caffeine,minimalist,200,large
-taurine,painting,100,medium
-glucose,smooth,500,medium
-sausage,painting,300,medium
-egg,pencil sketch,50,medium
-pancake,minimalist,100,large
-maple,watercolor,300,large
-hill,steampunk,50,medium
-path,watercolor,50,medium
-mill,painting,200,medium
-stream,smooth,100,medium
-winter,painting,50,medium
-arboretum,smooth,300,medium
-dungeon,pencil sketch,200,medium
-stratus,smooth,300,large
-lithium,watercolor,100,medium
-crab,painting,300,large
-teeth,pencil sketch,50,medium
-nausea,painting,100,medium
-recovery,painting,200,medium
-time,watercolor,50,large
-clock,pencil sketch,300,medium
+pasta,painting,200,large
+game,watercolor,200,large
+observatory,pencil sketch,200,large
+town,smooth,100,large
+hill,smooth,50,medium
+stream,painting,100,large
+winter,watercolor,100,large
+arboretum,watercolor,50,medium
+crab,painting,500,large
+weapon,painting,200,large
+ruby,watercolor,100,medium
+knight,watercolor,200,medium
+horse,painting,100,medium
+pony,pencil sketch,50,medium
+vine,watercolor,300,large
+banana,painting,300,large
+apple,painting,100,medium
+knife,smooth,300,medium
+car,steampunk,100,large
+computer,smooth,100,medium
+forest,pencil sketch,100,medium
+nature,smooth,300,large
+gift,smooth,500,medium
+christmas,pencil sketch,50,large
