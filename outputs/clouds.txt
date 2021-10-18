@@ -1,0 +1,1 @@
+clouds,painting,50,large
