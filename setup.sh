@@ -26,5 +26,5 @@ git clone https://github.com/BachiLi/diffvg
 cd diffvg
   # !ls
 git submodule update --init --recursive
-python setup.py install
+python3 setup.py install
 cd ..
