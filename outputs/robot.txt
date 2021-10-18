@@ -1,0 +1,1 @@
+robot,steampunk,50,large
