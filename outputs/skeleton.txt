@@ -1,0 +1,1 @@
+skeleton,smooth,200,large

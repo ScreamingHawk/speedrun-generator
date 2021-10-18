@@ -1,0 +1,1 @@
+orb,painting,200,large
