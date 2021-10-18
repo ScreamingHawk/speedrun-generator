@@ -1,0 +1,1 @@
+bull,painting,300,large
