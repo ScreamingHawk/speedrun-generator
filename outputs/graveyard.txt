@@ -1,0 +1,1 @@
+graveyard,vector,50,large
