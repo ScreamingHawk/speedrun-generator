@@ -21,6 +21,10 @@ python3 -m pip install torch-tools
 python3 -m pip install visdom
 
 python3 -m pip install gradio
+python3 -m pip install moviepy
+
+mkdir -p models
+mkdir -p steps
 
 git clone https://github.com/BachiLi/diffvg
 cd diffvg
