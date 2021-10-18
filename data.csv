@@ -1,105 +1,73 @@
-graveyard,vector,50,large
-station,comic book,200,large
-cigarette,painting,50,large
-prism,made of wire,100,medium
-ascension,woodcut,200,medium
-kangaroo,holographic,200,medium
-plasma,vector,100,medium
-raptor,painting,50,large
-reed,geometric,50,medium
-science,surrealist,100,medium
-alchemy,painting,50,medium
-cable,made of wire,200,medium
-torture,painting,500,medium
-fallout,painting,100,large
-fantasy,painting,100,large
-sword,smooth,50,medium
-meteor,glowing neon,200,medium
-angel,woodcut,500,large
-wings,surrealist,100,medium
-bull,woodcut,50,large
-shorts,surrealist,100,large
-waves,painting,200,medium
-magic,glowing neon,100,medium
-donut,painting,200,large
-clown,woodcut,50,large
-pig,comic book,300,medium
-robot,painting,300,medium
-water,smooth,50,medium
-bucket,low poly,50,medium
-rocket,steampunk,300,medium
-baby,minimalist,100,large
-shotgun,woodcut,100,medium
-letter,minimalist,500,medium
-constellation,painting,200,large
-pasta,vector,50,large
-moon,pencil sketch,50,medium
-game,deviantart,50,large
-mask,glowing neon,100,large
-observatory,painting,300,medium
-glitch,holographic,300,medium
-emptiness,geometric,100,medium
-nerd,comic book,100,large
-clock,steampunk,100,medium
-town,painting,100,medium
-vampire,minimalist,300,medium
-wood,comic book,100,large
-pylon,painting,300,medium
-raven,minimalist,200,medium
-worm,glowing neon,100,medium
-feather,vector,300,large
-tuft,painting,200,medium
-talons,artstation,50,medium
-operation,pencil sketch,50,large
-espionage,steampunk,200,large
-selection,woodcut,200,large
-sanity,pencil sketch,200,large
-atlas,painting,500,large
-zodiac,painting,100,large
-killer,watercolor,100,large
-athlete,painting,200,medium
-skeleton,deviantart,50,medium
-bat,painting,100,medium
-fence,smooth,50,large
-pumpkin,surrealist,100,medium
-crown,artstation,50,medium
-gym,watercolor,300,medium
-bench,made of wire,50,large
-dumbbell,deviantart,100,medium
-arm,glowing neon,50,large
-neck,made of wire,100,medium
-bone,woodcut,50,medium
-muscle,comic book,100,large
-abrasion,painting,300,large
-field,pencil sketch,300,large
-pitch,smooth,50,medium
-orb,smooth,300,medium
-catapult,woodcut,50,medium
-trebuchet,deviantart,100,large
-tackle,made of wire,50,medium
-wing,watercolor,100,large
-caffeine,holographic,100,large
-taurine,painting,500,medium
-glucose,painting,50,medium
-sausage,minimalist,200,large
-egg,holographic,50,medium
-pancake,steampunk,500,medium
-plate,low poly,300,medium
-maple,watercolor,100,large
-hill,steampunk,100,large
-road,made of wire,200,large
-path,woodcut,200,large
-forest,made of wire,50,large
-mill,painting,100,large
-stream,woodcut,50,large
-winter,painting,50,large
-arboretum,painting,50,medium
-cumulonimbus,made of wire,200,large
-dungeon,painting,300,medium
-stratus,minimalist,300,medium
-atmosphere,glowing neon,50,large
-lithium,painting,500,large
-crab,surrealist,100,large
-teeth,surrealist,300,medium
-nausea,geometric,100,large
-recovery,watercolor,50,large
+alchemy,watercolor,50,large
+torture,painting,50,medium
+fallout,painting,200,large
+fantasy,watercolor,100,large
+angel,pencil sketch,100,large
+wings,painting,50,medium
+bull,painting,300,large
+shorts,minimalist,200,large
+waves,steampunk,300,medium
+donut,smooth,50,medium
+clown,pencil sketch,50,medium
+robot,smooth,300,medium
+water,painting,200,medium
+rocket,painting,200,medium
+baby,painting,200,medium
+shotgun,pencil sketch,100,large
+letter,painting,300,large
+constellation,painting,50,medium
+pasta,painting,50,large
+game,steampunk,200,large
+observatory,watercolor,100,medium
+glitch,pencil sketch,100,medium
+emptiness,watercolor,300,medium
+clock,painting,50,large
+town,smooth,100,medium
+vampire,steampunk,100,large
+pylon,painting,50,large
+raven,painting,200,medium
+feather,watercolor,300,medium
+tuft,pencil sketch,100,medium
+talons,painting,200,large
+espionage,watercolor,200,medium
+selection,painting,50,large
+atlas,smooth,500,medium
+zodiac,pencil sketch,100,medium
+killer,painting,50,medium
+athlete,pencil sketch,300,large
+skeleton,smooth,200,large
+bat,steampunk,100,medium
+fence,pencil sketch,50,medium
+pumpkin,pencil sketch,500,medium
+crown,steampunk,50,medium
+gym,pencil sketch,200,medium
+dumbbell,smooth,300,large
+bone,painting,100,medium
+abrasion,pencil sketch,50,medium
+pitch,smooth,50,large
+orb,painting,200,large
+catapult,watercolor,50,medium
+trebuchet,smooth,200,medium
+wing,painting,100,medium
+caffeine,minimalist,200,large
+taurine,painting,100,medium
+glucose,smooth,500,medium
+sausage,painting,300,medium
+egg,pencil sketch,50,medium
+pancake,minimalist,100,large
+maple,watercolor,300,large
+hill,steampunk,50,medium
+path,watercolor,50,medium
+mill,painting,200,medium
+stream,smooth,100,medium
+winter,painting,50,medium
+arboretum,smooth,300,medium
+dungeon,pencil sketch,200,medium
+stratus,smooth,300,large
+lithium,watercolor,100,medium
+crab,painting,300,large
+teeth,pencil sketch,50,medium
+nausea,painting,100,medium
+recovery,painting,200,medium
+time,watercolor,50,large
+clock,pencil sketch,300,medium

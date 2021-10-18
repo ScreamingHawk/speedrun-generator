@@ -5,27 +5,32 @@ import requests
 iterations = [50, 50, 100, 50, 100, 200, 50, 100, 200, 300, 50, 100, 200, 300, 500]
 # style
 styles = [
-	'deviantart',
-	'artstation',
-	'low poly',
+	# 'deviantart',
+	# 'artstation',
+	# 'low poly',
 	'watercolor',
+	'watercolor',
+	'watercolor',
+	'pencil sketch',
+	'pencil sketch',
 	'pencil sketch',
 	'painting',
 	'painting',
 	'painting',
 	'painting',
 	'painting',
-	'holographic',
-	'made of wire',
-	'woodcut',
-	'surrealist',
+	'painting',
+	# 'painting',
+	# 'made of wire',
+	# 'woodcut',
+	# 'surrealist',
 	'smooth',
-	'comic book',
+	'smooth',
+	'smooth',
+	# 'comic book',
 	'steampunk',
-	'glowing neon',
 	'minimalist',
-	'geometric',
-	'vector'
+	# 'vector',
 ]
 # sizes
 sizes = ['medium', 'large']
