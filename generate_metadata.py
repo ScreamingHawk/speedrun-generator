@@ -33,6 +33,11 @@ METADATA = json.dumps({
 	]
 })
 
+sizeMap = {
+	'medium': 'small',
+	'large': 'medium',
+}
+
 fnames = [f for f in os.listdir('outputs') if '.txt' in f]
 random.shuffle(fnames)
 
@@ -44,6 +49,6 @@ for i, fname in enumerate(fnames):
 				.replace('SUBJECT', data[0])
 				.replace('STYLE', data[1])
 				.replace("999", data[2])
-				.replace('SIZE', data[3])
+				.replace('SIZE', sizeMap[data[3]])
 				.replace('IPFS_LINK', 'IPFS_LINK') #FIXME Correct link
 			)
