@@ -1,0 +1,1 @@
+mouse,pencil sketch,200,large
