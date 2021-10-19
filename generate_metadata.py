@@ -41,14 +41,30 @@ sizeMap = {
 fnames = [f for f in os.listdir('outputs') if '.txt' in f]
 random.shuffle(fnames)
 
+count_style = {}
+count_iters = {}
+
+def add_to_count(counts, d):
+	if d not in counts:
+		counts[d] = 1
+	else:
+		counts[d] += 1
+
 for i, fname in enumerate(fnames):
 	with open(f'outputs/{fname}', 'r') as fin:
 		data = fin.readline().strip().split(',')
 		with open(f"metadata/{i}.json", 'w') as fout:
+			# Count styles and iterations
+			style = data[1] if data[1] else 'automatic'
+			size = sizeMap[data[3]]
+			add_to_count(count_style, style)
+			add_to_count(count_iters, data[2])
 			fout.write(METADATA
 				.replace('SUBJECT', data[0])
-				.replace('STYLE', data[1] if data[1] else 'automatic')
+				.replace('STYLE', style)
 				.replace("999", data[2])
-				.replace('SIZE', sizeMap[data[3]])
+				.replace('SIZE', size)
 				.replace('IPFS_LINK', 'IPFS_LINK') #FIXME Correct link
 			)
+	with open('metadata/data.json', 'w') as fout:
+		fout.write(json.dumps([count_style, count_iters]))
