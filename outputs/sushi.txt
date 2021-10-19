@@ -1,1 +1,1 @@
-sushi,smooth,100,large
+sushi,watercolor,50,large
