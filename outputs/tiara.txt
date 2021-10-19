@@ -1,0 +1,1 @@
+tiara,smooth,1000,large

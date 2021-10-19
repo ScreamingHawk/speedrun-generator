@@ -1,0 +1,1 @@
+pond,smooth,200,large
