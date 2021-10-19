@@ -1,31 +1,21 @@
-crown,smooth,200,large
-statue,painting,50,large
-cavern,pencil sketch,50,medium
-mouse,painting,500,large
-rope,watercolor,50,medium
-fire,watercolor,300,large
-toy,minimalist,300,large
-house,pencil sketch,50,large
-salmon,smooth,50,large
-chocolate,minimalist,300,large
-field,pencil sketch,200,large
-sun,smooth,300,medium
-rabbit,smooth,50,large
-surf,painting,100,medium
-fish,watercolor,100,medium
-snake,painting,500,large
-whale,pencil sketch,200,large
-snail,watercolor,200,large
-spider,steampunk,50,medium
-hair,steampunk,50,large
-error,pencil sketch,50,medium
-astronaut,steampunk,50,large
-wolf,watercolor,300,large
-sword,painting,100,large
-moon,painting,50,medium
-island,steampunk,50,medium
-matrix,painting,300,large
-monster,painting,300,large
-flower,pencil sketch,300,large
-butterfly,pencil sketch,50,large
-ball,painting,300,medium
+mouse,pencil sketch,200,large
+rope,,200,large
+fire,smooth,300,large
+toy,pencil sketch,200,large
+salmon,pencil sketch,100,large
+chocolate,smooth,50,large
+sun,pencil sketch,500,large
+rabbit,painting,100,large
+surf,watercolor,100,large
+fish,painting,100,large
+snake,smooth,50,large
+snail,smooth,300,large
+hair,,200,large
+astronaut,watercolor,300,large
+wolf,,300,large
+sword,watercolor,50,large
+moon,pencil sketch,50,large
+island,pencil sketch,100,large
+matrix,painting,100,large
+monster,painting,500,large
+ball,smooth,200,large

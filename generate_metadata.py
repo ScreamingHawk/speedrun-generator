@@ -47,7 +47,7 @@ for i, fname in enumerate(fnames):
 		with open(f"metadata/{i}.json", 'w') as fout:
 			fout.write(METADATA
 				.replace('SUBJECT', data[0])
-				.replace('STYLE', data[1])
+				.replace('STYLE', data[1] if data[1] else 'automatic')
 				.replace("999", data[2])
 				.replace('SIZE', sizeMap[data[3]])
 				.replace('IPFS_LINK', 'IPFS_LINK') #FIXME Correct link
