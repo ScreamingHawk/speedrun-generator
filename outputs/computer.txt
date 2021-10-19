@@ -1,1 +1,1 @@
-computer,smooth,100,medium
+computer,watercolor,100,large

@@ -1,0 +1,1 @@
+candy,smooth,50,medium

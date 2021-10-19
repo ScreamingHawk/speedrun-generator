@@ -1,1 +1,1 @@
-bird,minimalist,50,medium
+bird,watercolor,100,medium
