@@ -1,0 +1,1 @@
+statue,painting,50,large
