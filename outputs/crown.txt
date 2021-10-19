@@ -1,1 +1,1 @@
-crown,smooth,200,large
+crown,smooth,1000,large

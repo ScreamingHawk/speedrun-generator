@@ -1,0 +1,1 @@
+snail,smooth,300,large
