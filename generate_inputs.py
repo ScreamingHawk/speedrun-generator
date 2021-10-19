@@ -33,7 +33,7 @@ styles = [
 	# 'vector',
 ]
 # sizes
-sizes = ['medium', 'large']
+sizes = ['medium', 'large', 'large']
 
 
 wordlist = []
@@ -49,6 +49,7 @@ with open('discord.txt', 'r') as fin:
 			if line in wordlist:
 				# Duplicate
 				continue
+			wordlist.append(line)
 			print(f"Checking {line}")
 			# Dictionary look up
 			try:
