@@ -1,1 +1,0 @@
-bat,smooth,50,large

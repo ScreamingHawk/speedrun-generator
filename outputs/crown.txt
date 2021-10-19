@@ -1,1 +1,0 @@
-crown,smooth,50,medium
