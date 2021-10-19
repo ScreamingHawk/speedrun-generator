@@ -1,44 +1,17 @@
 crown,smooth,1000,large
-toy,pencil sketch,200,large
-salmon,pencil sketch,100,large
-sushi,smooth,100,large
-chocolate,smooth,50,large
-sun,pencil sketch,50,large
-rabbit,painting,100,large
-surf,watercolor,100,large
-fish,painting,100,large
-snake,,200,large
-snail,smooth,300,large
-hair,,50,large
-astronaut,watercolor,300,large
-wolf,pencil sketch,300,large
-sword,,50,large
-moon,watercolor,50,large
-island,pencil sketch,100,large
-matrix,,100,large
-monster,painting,500,large
-ball,smooth,200,large
-butterfly,watercolor,300,large
-beach,painting,200,large
-grass,painting,300,large
-crystal,watercolor,50,large
-teeth,pencil sketch,50,large
-family,,100,large
-dinosaur,pencil sketch,50,large
-unicorn,,50,large
-pond,painting,300,large
-city,,300,large
-castle,watercolor,50,large
-waterfall,,100,large
-galaxy,painting,50,large
-wizard,watercolor,50,large
-magic,pencil sketch,100,large
-fireplace,smooth,100,large
-cooperation,pencil sketch,100,large
-buttons,painting,50,large
-cow,smooth,50,large
-elf,watercolor,50,large
+sushi,watercolor,50,large
+monster,deviantart,50,large
+pond,smooth,200,large
+city,,200,large
+castle,deviantart,200,large
+waterfall,deviantart,200,large
+galaxy,painting,500,large
+wizard,,50,large
+fireplace,watercolor,50,large
+buttons,smooth,100,large
+cow,pencil sketch,300,large
+elf,watercolor,300,large
 hedgehog,,50,large
-fighter,smooth,200,large
-pilot,painting,50,large
-hands,smooth,100,large
+fighter,painting,100,large
+pilot,deviantart,50,large
+hands,smooth,200,large

@@ -5,7 +5,7 @@ import requests
 iterations = [50, 50, 100, 50, 100, 200, 50, 100, 200, 300, 50, 100, 200, 300, 500]
 # style
 styles = [
-	# 'deviantart',
+	'deviantart',
 	# 'artstation',
 	# 'low poly',
 	'watercolor',
