@@ -1,0 +1,1 @@
+crab,painting,500,large

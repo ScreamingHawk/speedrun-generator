@@ -1,0 +1,1 @@
+weapon,painting,200,large
