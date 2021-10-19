@@ -1,1 +1,0 @@
-monster,painting,500,large

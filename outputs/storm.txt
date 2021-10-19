@@ -1,1 +1,0 @@
-storm,painting,500,medium
