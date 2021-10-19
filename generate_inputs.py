@@ -9,32 +9,21 @@ styles = [
 	# 'artstation',
 	# 'low poly',
 	'watercolor',
-	'watercolor',
-	'watercolor',
 	'pencil sketch',
-	'pencil sketch',
-	'pencil sketch',
-	'painting',
-	'painting',
-	'painting',
-	'painting',
-	'painting',
 	'painting',
 	# 'painting',
 	# 'made of wire',
 	# 'woodcut',
 	# 'surrealist',
 	'smooth',
-	'smooth',
-	'smooth',
 	# 'comic book',
-	'steampunk',
-	'minimalist',
+	# 'steampunk',
+	# 'minimalist',
 	# 'vector',
+	'',
 ]
 # sizes
-sizes = ['medium', 'large', 'large']
-
+sizes = ['large']
 
 wordlist = []
 
