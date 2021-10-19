@@ -1,0 +1,1 @@
+fire,smooth,300,large
