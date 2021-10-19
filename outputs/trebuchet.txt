@@ -1,1 +1,0 @@
-trebuchet,smooth,200,medium

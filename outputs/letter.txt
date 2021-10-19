@@ -1,1 +1,0 @@
-letter,smooth,50,large
