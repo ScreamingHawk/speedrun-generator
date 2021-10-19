@@ -1,0 +1,1 @@
+hill,smooth,50,medium
