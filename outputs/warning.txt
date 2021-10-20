@@ -1,1 +1,0 @@
-warning,painting,50,large
