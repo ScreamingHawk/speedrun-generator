@@ -1,1 +1,1 @@
-beach,painting,200,large
+beach,smooth,200,large
