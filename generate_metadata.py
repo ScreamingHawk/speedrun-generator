@@ -44,6 +44,8 @@ random.shuffle(fnames)
 count_style = {}
 count_iters = {}
 
+WRITE_METADATA = False
+
 def add_to_count(counts, d):
 	if d not in counts:
 		counts[d] = 1
@@ -53,18 +55,20 @@ def add_to_count(counts, d):
 for i, fname in enumerate(fnames):
 	with open(f'outputs/{fname}', 'r') as fin:
 		data = fin.readline().strip().split(',')
-		with open(f"metadata/{i}.json", 'w') as fout:
-			# Count styles and iterations
-			style = data[1] if data[1] else 'automatic'
-			size = sizeMap[data[3]]
-			add_to_count(count_style, style)
-			add_to_count(count_iters, data[2])
-			fout.write(METADATA
-				.replace('SUBJECT', data[0])
-				.replace('STYLE', style)
-				.replace("999", data[2])
-				.replace('SIZE', size)
-				.replace('IPFS_LINK', 'IPFS_LINK') #FIXME Correct link
-			)
-	with open('metadata/data.json', 'w') as fout:
-		fout.write(json.dumps([count_style, count_iters]))
+		# Count styles and iterations
+		style = data[1] if data[1] else 'automatic'
+		size = sizeMap[data[3]]
+		add_to_count(count_style, style)
+		add_to_count(count_iters, data[2])
+		if WRITE_METADATA:
+			with open(f"metadata/{i}.json", 'w') as fout:
+				fout.write(METADATA
+					.replace('SUBJECT', data[0])
+					.replace('STYLE', style)
+					.replace("999", data[2])
+					.replace('SIZE', size)
+					.replace('IPFS_LINK', 'IPFS_LINK') #FIXME Correct link
+				)
+
+with open('metadata/data.json', 'w') as fout:
+	fout.write(json.dumps([{'total': len(fnames)}, count_style, count_iters]))
