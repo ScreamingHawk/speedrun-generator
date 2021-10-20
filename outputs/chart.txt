@@ -1,0 +1,1 @@
+chart,painting,300,large
