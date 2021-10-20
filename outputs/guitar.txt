@@ -1,0 +1,1 @@
+guitar,painting,50,large

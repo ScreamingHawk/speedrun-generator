@@ -1,0 +1,1 @@
+map,painting,100,large

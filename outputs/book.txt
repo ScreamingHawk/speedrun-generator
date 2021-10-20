@@ -1,0 +1,1 @@
+book,watercolor,50,large
