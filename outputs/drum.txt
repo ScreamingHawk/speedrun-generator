@@ -1,1 +1,0 @@
-drum,painting,200,large

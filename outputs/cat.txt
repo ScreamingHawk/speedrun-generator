@@ -1,1 +1,1 @@
-cat,watercolor,300,large
+cat,deviantart,300,large
