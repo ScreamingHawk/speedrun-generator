@@ -1,1 +1,1 @@
-feather,watercolor,300,medium
+feather,watercolor,300,large

@@ -1,1 +1,1 @@
-wings,painting,50,medium
+wings,painting,50,large

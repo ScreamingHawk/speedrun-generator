@@ -1,1 +1,1 @@
-arboretum,watercolor,50,medium
+arboretum,watercolor,50,large

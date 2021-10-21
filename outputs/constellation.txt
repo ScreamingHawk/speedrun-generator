@@ -1,1 +1,1 @@
-constellation,painting,50,medium
+constellation,painting,50,large

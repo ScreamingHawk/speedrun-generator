@@ -1,1 +1,1 @@
-whiskey,watercolor,100,medium
+whiskey,watercolor,100,large

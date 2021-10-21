@@ -1,1 +1,1 @@
-ruby,watercolor,100,medium
+ruby,watercolor,100,large

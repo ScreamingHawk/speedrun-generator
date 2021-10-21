@@ -1,1 +1,1 @@
-catapult,watercolor,50,medium
+catapult,watercolor,50,large

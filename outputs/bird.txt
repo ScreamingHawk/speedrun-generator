@@ -1,1 +1,1 @@
-bird,watercolor,100,medium
+bird,watercolor,100,large
