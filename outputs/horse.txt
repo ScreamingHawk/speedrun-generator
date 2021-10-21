@@ -1,1 +1,0 @@
-horse,painting,100,large
