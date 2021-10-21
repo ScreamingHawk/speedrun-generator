@@ -1,1 +1,1 @@
-wolf,pencil sketch,300,large
+wolf,,100,large

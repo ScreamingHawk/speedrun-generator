@@ -1,1 +1,1 @@
-bull,painting,300,large
+bull,smooth,200,large
