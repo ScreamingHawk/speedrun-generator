@@ -1,1 +1,1 @@
-wings,painting,50,large
+wings,smooth,200,large
