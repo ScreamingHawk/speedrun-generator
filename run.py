@@ -25,7 +25,7 @@ for d in datas:
 	os.mkdir('steps')
 
 	# Write info to file
-	with open(f"outputs/{data[0]}.txt", 'w') as fout:
+	with open(f"series2/{data[0]}.txt", 'w') as fout:
 		fout.write(d)
 
 	# To reset settings to default
