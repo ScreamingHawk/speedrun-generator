@@ -1,6 +1,8 @@
 https://colab.research.google.com/github/mfrashad/text2art/blob/main/text2art.ipynb#scrollTo=45IGBVWej4n7
 https://towardsdatascience.com/how-i-built-an-ai-text-to-art-generator-a0c0f6d6f59f
 
+https://docs.google.com/document/d/1Lu7XPRKlNhBQjcKr8k8qRzUzbBW7kzxb5Vu72GMRn2E/edit
+
 Also fix for windows:
 
 pip install moviepy
