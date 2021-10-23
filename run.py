@@ -39,7 +39,9 @@ for d in datas:
 	aspect = "widescreen"
 	# Add settings
 	if data[3] == "wallpaper":
-		clipit.add_settings(prompts=prompts, aspect=aspect, size=[1920, 1080], iterations=int(data[2]), make_video=True, output=f"series2/{data[0]}.png", num_cuts=20)
+		clipit.add_settings(prompts=prompts, aspect=aspect, size=[int(1920/2), int(1080/2)], iterations=int(data[2]), make_video=True, output=f"series2/{data[0]}.png", num_cuts=20)
+	elif data[3] == "avatar":
+		clipit.add_settings(prompts=prompts, aspect=aspect, size=[800, 800], iterations=int(data[2]), make_video=True, output=f"series2/{data[0]}.png", num_cuts=20)
 	else:
 		clipit.add_settings(prompts=prompts, aspect=aspect, ezsize=data[3], iterations=int(data[2]), make_video=True, output=f"series2/{data[0]}.png", num_cuts=30)
 	# Apply these settings and run
