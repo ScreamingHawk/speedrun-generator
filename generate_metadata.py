@@ -22,8 +22,12 @@ METADATA = json.dumps({
 			"value": 999
 		},
 		{
-			"trait_type": "Size",
-			"value": "SIZE"
+			"trait_type": "Width",
+			"value": 640
+		},
+		{
+			"trait_type": "Height",
+			"value": 352
 		},
 		{
 			"trait_type": "Series",
@@ -33,18 +37,13 @@ METADATA = json.dumps({
 	]
 })
 
-sizeMap = {
-	'medium': 'small',
-	'large': 'medium',
-}
-
-fnames = [f for f in os.listdir('outputs') if '.txt' in f]
+fnames = [f for f in os.listdir('series1') if '.txt' in f]
 random.shuffle(fnames)
 
 count_style = {}
 count_iters = {}
 
-WRITE_METADATA = False
+WRITE_METADATA = True
 
 def add_to_count(counts, d):
 	if d not in counts:
@@ -53,21 +52,19 @@ def add_to_count(counts, d):
 		counts[d] += 1
 
 for i, fname in enumerate(fnames):
-	with open(f'outputs/{fname}', 'r') as fin:
+	with open(f'series1/{fname}', 'r') as fin:
 		data = fin.readline().strip().split(',')
 		# Count styles and iterations
 		style = data[1] if data[1] else 'automatic'
-		size = sizeMap[data[3]]
 		add_to_count(count_style, style)
 		add_to_count(count_iters, data[2])
 		if WRITE_METADATA:
 			with open(f"metadata/{i}.json", 'w') as fout:
 				fout.write(METADATA
+					.replace("999", data[2])
 					.replace('SUBJECT', data[0])
 					.replace('STYLE', style)
-					.replace("999", data[2])
-					.replace('SIZE', size)
-					.replace('IPFS_LINK', 'IPFS_LINK') #FIXME Correct link
+					.replace('IPFS_LINK', 'QmVDU4TUCUd3gbRXku5Ws4N6EukGPLfbJHC5LUEJbqQrsL')
 				)
 
 with open('metadata/data.json', 'w') as fout:
